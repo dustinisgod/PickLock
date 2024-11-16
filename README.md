@@ -15,7 +15,7 @@ This Lua script is designed to automate the process of training the "Pick Lock" 
 ---
 
 ## **Installation**
-1. Unzip the PickLock folder into your Macroquest `Lua` folder.
+1. Unzip the `PickLock` folder into your Macroquest `Lua` folder.
 2. Ensure you have lockpicks in your inventory or bags.
 3. Be near the door you wish to lockpick.
 
@@ -25,7 +25,7 @@ This Lua script is designed to automate the process of training the "Pick Lock" 
 1. **Run the Script**:
    - In-game, use the command:  
      ```bash
-     /lua run Lockpick
+     /lua run picklock
      ```
 2. **GUI Controls**:
    - Use the "Start" button to begin the lockpicking process.
