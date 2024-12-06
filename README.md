@@ -1,3 +1,5 @@
+version=1.0.0
+
 # **Lockpick Trainer Script**
 
 ## **Description**
